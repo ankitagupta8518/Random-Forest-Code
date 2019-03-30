@@ -1,4 +1,4 @@
-# Random-Forest-Code
+# Random-Forest-and-Decision-Tree-Code
 This repository has codes which I have created while learning Random Forests and Decision Trees Machine Learning Algorithms.
 The codes are specifically for:
 1) Random Forest Regressor
